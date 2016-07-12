@@ -6,10 +6,3 @@ dfa
 sdf
 asdf
 asd
-fa
-sdfa
-sdf
-asdf
-as
-fa
-f
